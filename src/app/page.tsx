@@ -1,3 +1,4 @@
+import PlanningCall from "@/components/PlanningCall";
 import { HackathonCard } from "@/components/hackathon-card";
 import BlurFade from "@/components/magicui/blur-fade";
 import BlurFadeText from "@/components/magicui/blur-fade-text";
@@ -217,6 +218,7 @@ export default function Page() {
                 soliciting.
               </p>
             </div>
+            <PlanningCall/>
           </BlurFade>
         </div>
       </section>

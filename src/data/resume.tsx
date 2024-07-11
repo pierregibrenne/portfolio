@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Ingénieur préféré de ton ingé preferé, Youtubeur a succées",
   summary:
-    "Après dés années à bosser dans la restauration, et autre taff comme recruteur donateur (le ga la qui t'arrete dans la rue pour les asso, oui, relou.) J'ai décider de coder, meilleur choix de ma life les amis",
+    "Après dés années à bosser dans la restauration, et autre taff comme recruteur donateur (le ga la qui t'arrete dans la rue pour les asso, oui, relou.) J'ai décidé de coder, meilleur choix de ma life les ga",
   avatarUrl: "/me.png",
   skills: [
     "React",
