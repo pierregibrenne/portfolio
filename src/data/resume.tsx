@@ -8,10 +8,10 @@ export const DATA = {
   location: "Toulouse, FR",
   locationLink: "https://www.google.com/maps/place/toulouse",
   description:
-    "Ingénieur préféré de ton ingé preferé, Youtubeur a succées",
+    "Ingénieur préféré de ton ingé preferé, Youtubeur à succées",
   summary:
     "Après dés années à bosser dans la restauration, et autre taff comme recruteur donateur (le ga la qui t'arrete dans la rue pour les asso, oui, relou.) J'ai décidé de coder, meilleur choix de ma life les ga",
-  avatarUrl: "/me.png",
+  avatarUrl: "https://media.licdn.com/dms/image/C4D03AQHP6W4hKETwEw/profile-displayphoto-shrink_400_400/0/1625069298132?e=2147483647&v=beta&t=3BDcojicIrVA2pjM8mlvM2qcyWt8c70f5vYGo--jqlY",
   skills: [
     "React",
     "Next.js",
@@ -92,8 +92,8 @@ export const DATA = {
       location: "Santa Clara, CA",
       title: "Software Engineer",
       logoUrl: "/nvidia.png",
-      start: "January 2020",
-      end: "April 2020",
+      start: "Aout 2024",
+      end: "Aujourd'hui",
       description:
         "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
     },
@@ -136,36 +136,20 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Buildspace",
-      href: "https://buildspace.so",
-      degree: "s3, s4, sf1, s5",
-      logoUrl: "/buildspace.jpg",
-      start: "2023",
-      end: "2024",
-    },
-    {
-      school: "University of Waterloo",
-      href: "https://uwaterloo.ca",
-      degree: "Bachelor's Degree of Computer Science (BCS)",
-      logoUrl: "/waterloo.png",
-      start: "2016",
-      end: "2021",
-    },
-    {
-      school: "Wilfrid Laurier University",
+      school: "Titre développeur web front et back",
       href: "https://wlu.ca",
-      degree: "Bachelor's Degree of Business Administration (BBA)",
+      degree: "Bac + 2",
       logoUrl: "/laurier.png",
-      start: "2016",
+      start: "2019",
       end: "2021",
     },
     {
-      school: "International Baccalaureate",
+      school: "Bac pro restauration",
       href: "https://ibo.org",
       degree: "IB Diploma",
       logoUrl: "/ib.png",
       start: "2012",
-      end: "2016",
+      end: "2014",
     },
   ],
   projects: [
