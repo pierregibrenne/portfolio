@@ -165,8 +165,8 @@ export default function Page() {
                   Je crée des vidéos incroyable sur YouTube
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                &apos;j&apos;'&apos;ai  vu des vidéastes trop stylée comme IciAmyplant, cocadmin
-                &apos;j&apos;'&apos;me  suis dis, je vais faire la meme, parler de sujet en vidéo, histoire de partagez comment le code a changer ma life 
+                j&apos;ai  vu des vidéastes trop stylée comme IciAmyplant, cocadmin
+                j&apos;me  suis dis, je vais faire la meme, parler de sujet en vidéo, histoire de partagez comment le code a changer ma life 
                 </p>
               </div>
             </div>
@@ -204,7 +204,7 @@ export default function Page() {
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 Mentoring, ou juste des conseils
-                  tu a juste a choisir une date et &apos;l&apos;'&apos;heure de ton choix
+                  tu a juste a choisir une date et l&apos;heure de ton choix
               </p>
             </div>
             <PlanningCall/>
