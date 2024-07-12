@@ -165,7 +165,7 @@ export default function Page() {
                   Je crée des vidéos incroyable sur YouTube
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  J'ai vu des vidéastes trop stylée comme IciAmyplant, cocadmin{" "}
+                  J'ai vu des vidéastes trop stylée comme IciAmyplant, cocadmin
                  J'me suis dis, je vais faire la meme, parler de sujet en vidéo, histoire de partagez comment le code a changer ma life 
                 </p>
               </div>
@@ -203,7 +203,7 @@ export default function Page() {
                 Réserve ton appel
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Mentoring, ou juste des conseils{" "}
+                Mentoring, ou juste des conseils
                   tu a juste a choisir une date et l'heure de ton choix
               </p>
             </div>
